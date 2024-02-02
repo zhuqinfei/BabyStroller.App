@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="BabyStroller.SDK">
+      <HintPath>C:\Users\Administrator\Desktop\BabyStroller.SDK.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

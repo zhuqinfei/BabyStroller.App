@@ -1,0 +1,9 @@
+D:\c#练习项目\BabyStroller.App\BabyStroller.SDK\bin\Debug\netcoreapp3.0\BabyStroller.SDK.deps.json
+D:\c#练习项目\BabyStroller.App\BabyStroller.SDK\bin\Debug\netcoreapp3.0\BabyStroller.SDK.dll
+D:\c#练习项目\BabyStroller.App\BabyStroller.SDK\bin\Debug\netcoreapp3.0\BabyStroller.SDK.pdb
+D:\c#练习项目\BabyStroller.App\BabyStroller.SDK\obj\Debug\netcoreapp3.0\BabyStroller.SDK.csproj.AssemblyReference.cache
+D:\c#练习项目\BabyStroller.App\BabyStroller.SDK\obj\Debug\netcoreapp3.0\BabyStroller.SDK.csproj.CoreCompileInputs.cache
+D:\c#练习项目\BabyStroller.App\BabyStroller.SDK\obj\Debug\netcoreapp3.0\BabyStroller.SDK.AssemblyInfoInputs.cache
+D:\c#练习项目\BabyStroller.App\BabyStroller.SDK\obj\Debug\netcoreapp3.0\BabyStroller.SDK.AssemblyInfo.cs
+D:\c#练习项目\BabyStroller.App\BabyStroller.SDK\obj\Debug\netcoreapp3.0\BabyStroller.SDK.dll
+D:\c#练习项目\BabyStroller.App\BabyStroller.SDK\obj\Debug\netcoreapp3.0\BabyStroller.SDK.pdb

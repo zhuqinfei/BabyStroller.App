@@ -10,3 +10,5 @@ D:\c#练习项目\BabyStroller.App\BabyStroller.App\obj\Debug\netcoreapp3.0\Baby
 D:\c#练习项目\BabyStroller.App\BabyStroller.App\obj\Debug\netcoreapp3.0\BabyStroller.App.AssemblyInfo.cs
 D:\c#练习项目\BabyStroller.App\BabyStroller.App\obj\Debug\netcoreapp3.0\BabyStroller.App.dll
 D:\c#练习项目\BabyStroller.App\BabyStroller.App\obj\Debug\netcoreapp3.0\BabyStroller.App.pdb
+D:\c#练习项目\BabyStroller.App\BabyStroller.App\bin\Debug\netcoreapp3.0\BabyStroller.SDK.dll
+D:\c#练习项目\BabyStroller.App\BabyStroller.App\obj\Debug\netcoreapp3.0\BabyStroller.App.csproj.CopyComplete

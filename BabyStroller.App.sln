@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyStroller.App", "BabyStroller.App\BabyStroller.App.csproj", "{026A2C6E-AF5D-43EE-BC66-B9E593BDA7F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BabyStroller.App", "BabyStroller.App\BabyStroller.App.csproj", "{026A2C6E-AF5D-43EE-BC66-B9E593BDA7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyStroller.SDK", "BabyStroller.SDK\BabyStroller.SDK.csproj", "{1DC94B21-19E5-4D29-BB47-FB1EC4FC972B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{026A2C6E-AF5D-43EE-BC66-B9E593BDA7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{026A2C6E-AF5D-43EE-BC66-B9E593BDA7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{026A2C6E-AF5D-43EE-BC66-B9E593BDA7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC94B21-19E5-4D29-BB47-FB1EC4FC972B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC94B21-19E5-4D29-BB47-FB1EC4FC972B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC94B21-19E5-4D29-BB47-FB1EC4FC972B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC94B21-19E5-4D29-BB47-FB1EC4FC972B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
